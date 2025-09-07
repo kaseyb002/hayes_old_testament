@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title><![CDATA[Introduction to the Old Testament (Hebrew Bible)]]></title>
+    <link>https://github.com/kaseyb002/hayes_old_testament</link>
+    <atom:link href="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/rss.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>© 2025 Christine Hayes (archival use). Non-commercial educational archive.</copyright>
+    <itunes:author><![CDATA[Christine Hayes - archived by Kasey Baughan]]></itunes:author>
+    <itunes:owner>
+      <itunes:name><![CDATA[Kasey Baughan]]></itunes:name>
+      <itunes:email>kasey@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Education">
+      <itunes:category text="Courses"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/hayes.jpeg"/>
+    <description><![CDATA[Introduction to the Old Testament (Hebrew Bible) - A comprehensive study of the Hebrew Bible in its ancient Near Eastern setting. Unofficial archive for study.]]></description>
+    <item>
+      <title><![CDATA[Lecture 1: The Parts of the Whole]]></title>
+      <description><![CDATA[Lecture 1: The Parts of the Whole]]></description>
+      <pubDate>Fri, 01 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">001_lecture_1_the_parts_of_the_whole_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/001_lecture_1_the_parts_of_the_whole_mp3.mp3" length="21965036" type="audio/mpeg"/>
+      <itunes:duration>00:45:46</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 2: The Hebrew Bible in its Ancient Near Eastern Setting - Biblical Religion in Context]]></title>
+      <description><![CDATA[Lecture 2: The Hebrew Bible in its Ancient Near Eastern Setting - Biblical Religion in Context]]></description>
+      <pubDate>Fri, 01 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">002_lecture_2_the_hebrew_bible_in_its_ancient_near_eastern_setting_biblical_religion_in_context_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/002_lecture_2_the_hebrew_bible_in_its_ancient_near_eastern_setting_biblical_religion_in_context_mp3.mp3" length="22172780" type="audio/mpeg"/>
+      <itunes:duration>00:46:12</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 3: The Hebrew Bible in its Ancient Near Eastern Setting - Genesis 1-4 in Context]]></title>
+      <description><![CDATA[Lecture 3: The Hebrew Bible in its Ancient Near Eastern Setting - Genesis 1-4 in Context]]></description>
+      <pubDate>Sat, 02 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">003_lecture_3_the_hebrew_bible_in_its_ancient_near_eastern_setting_genesis_1_4_in_context_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/003_lecture_3_the_hebrew_bible_in_its_ancient_near_eastern_setting_genesis_1_4_in_context_mp3.mp3" length="22903724" type="audio/mpeg"/>
+      <itunes:duration>00:47:43</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 4: Doublets and Contradictions, Seams and Sources]]></title>
+      <description><![CDATA[Lecture 4: Doublets and Contradictions, Seams and Sources]]></description>
+      <pubDate>Sat, 02 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">004_lecture_4_doublets_and_contradictions_seams_and_sources_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/004_lecture_4_doublets_and_contradictions_seams_and_sources_mp3.mp3" length="22978604" type="audio/mpeg"/>
+      <itunes:duration>00:47:52</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 5: Critical Approaches to the Bible - Introduction to Genesis 12-50]]></title>
+      <description><![CDATA[Lecture 5: Critical Approaches to the Bible - Introduction to Genesis 12-50]]></description>
+      <pubDate>Sun, 03 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">005_lecture_5_critical_approaches_to_the_bible_introduction_to_genesis_12_50_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/005_lecture_5_critical_approaches_to_the_bible_introduction_to_genesis_12_50_mp3.mp3" length="23392940" type="audio/mpeg"/>
+      <itunes:duration>00:48:44</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 6: Biblical Narrative - The Stories of the Patriarchs (Genesis 12-36)]]></title>
+      <description><![CDATA[Lecture 6: Biblical Narrative - The Stories of the Patriarchs (Genesis 12-36)]]></description>
+      <pubDate>Sun, 03 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">006_lecture_6_biblical_narrative_the_stories_of_the_patriarchs_genesis_12_36_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/006_lecture_6_biblical_narrative_the_stories_of_the_patriarchs_genesis_12_36_mp3.mp3" length="23651948" type="audio/mpeg"/>
+      <itunes:duration>00:49:16</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 7: Israel in Egypt - Moses and the Beginning of Yahwism (Genesis 37 - Exodus 4)]]></title>
+      <description><![CDATA[Lecture 7: Israel in Egypt - Moses and the Beginning of Yahwism (Genesis 37 - Exodus 4)]]></description>
+      <pubDate>Mon, 04 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">007_lecture_7_israel_in_egypt_moses_and_the_beginning_of_yahwism_genesis_37_exodus_4_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/007_lecture_7_israel_in_egypt_moses_and_the_beginning_of_yahwism_genesis_37_exodus_4_mp3.mp3" length="22101740" type="audio/mpeg"/>
+      <itunes:duration>00:46:03</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 8: Exodus - From Egypt to Sinai (Exodus 5-24, 32; Numbers)]]></title>
+      <description><![CDATA[Lecture 8: Exodus - From Egypt to Sinai (Exodus 5-24, 32; Numbers)]]></description>
+      <pubDate>Mon, 04 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">008_lecture_8_exodus_from_egypt_to_sinai_exodus_5_24_32_numbers_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/008_lecture_8_exodus_from_egypt_to_sinai_exodus_5_24_32_numbers_mp3.mp3" length="22835756" type="audio/mpeg"/>
+      <itunes:duration>00:47:34</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 9: The Priestly Legacy - Cult and Sacrifice, Purity and Holiness in Leviticus and Numbers]]></title>
+      <description><![CDATA[Lecture 9: The Priestly Legacy - Cult and Sacrifice, Purity and Holiness in Leviticus and Numbers]]></description>
+      <pubDate>Tue, 05 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">009_lecture_9_the_priestly_legacy_cult_and_sacrifice_purity_and_holiness_in_leviticus_and_numbers_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/009_lecture_9_the_priestly_legacy_cult_and_sacrifice_purity_and_holiness_in_leviticus_and_numbers_mp3.mp3" length="23319788" type="audio/mpeg"/>
+      <itunes:duration>00:48:35</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 10: Biblical Law - The Three Legal Corpora of JE (Exodus), P (Leviticus and Numbers), and D]]></title>
+      <description><![CDATA[Lecture 10: Biblical Law - The Three Legal Corpora of JE (Exodus), P (Leviticus and Numbers), and D]]></description>
+      <pubDate>Tue, 05 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">010_lecture_10_biblical_law_the_three_legal_corpora_of_je_exodus_p_leviticus_and_numbers_and_d_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/010_lecture_10_biblical_law_the_three_legal_corpora_of_je_exodus_p_leviticus_and_numbers_and_d_mp3.mp3" length="24336812" type="audio/mpeg"/>
+      <itunes:duration>00:50:42</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 11: On the Steps of Moab - Deuteronomy]]></title>
+      <description><![CDATA[Lecture 11: On the Steps of Moab - Deuteronomy]]></description>
+      <pubDate>Wed, 06 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">011_lecture_11_on_the_steps_of_moab_deuteronomy_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/011_lecture_11_on_the_steps_of_moab_deuteronomy_mp3.mp3" length="22999532" type="audio/mpeg"/>
+      <itunes:duration>00:47:55</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 12: The Deuteronomistic History - Life in the Land (Joshua and Judges)]]></title>
+      <description><![CDATA[Lecture 12: The Deuteronomistic History - Life in the Land (Joshua and Judges)]]></description>
+      <pubDate>Wed, 06 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">012_lecture_12_the_deuteronomistic_history_life_in_the_land_joshua_and_judges_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/012_lecture_12_the_deuteronomistic_history_life_in_the_land_joshua_and_judges_mp3.mp3" length="24147500" type="audio/mpeg"/>
+      <itunes:duration>00:50:18</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 13: The Deuteronomistic History - Prophets and Kings (1 and 2 Samuel)]]></title>
+      <description><![CDATA[Lecture 13: The Deuteronomistic History - Prophets and Kings (1 and 2 Samuel)]]></description>
+      <pubDate>Thu, 07 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">013_lecture_13_the_deuteronomistic_history_prophets_and_kings_1_and_2_samuel_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/013_lecture_13_the_deuteronomistic_history_prophets_and_kings_1_and_2_samuel_mp3.mp3" length="23768492" type="audio/mpeg"/>
+      <itunes:duration>00:49:31</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 14: The Deuteronomistic History - Response to Catastrophe (1 and 2 Kings)]]></title>
+      <description><![CDATA[Lecture 14: The Deuteronomistic History - Response to Catastrophe (1 and 2 Kings)]]></description>
+      <pubDate>Thu, 07 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">014_lecture_14_the_deuteronomistic_history_response_to_catastrophe_1_and_2_kings_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/014_lecture_14_the_deuteronomistic_history_response_to_catastrophe_1_and_2_kings_mp3.mp3" length="24755756" type="audio/mpeg"/>
+      <itunes:duration>00:51:34</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 15: Hebrew Prophecy - The Non-Literary Prophets]]></title>
+      <description><![CDATA[Lecture 15: Hebrew Prophecy - The Non-Literary Prophets]]></description>
+      <pubDate>Fri, 08 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">015_lecture_15_hebrew_prophecy_the_non_literary_prophets_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/015_lecture_15_hebrew_prophecy_the_non_literary_prophets_mp3.mp3" length="23923052" type="audio/mpeg"/>
+      <itunes:duration>00:49:50</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 16: Literary Prophecy - Amos]]></title>
+      <description><![CDATA[Lecture 16: Literary Prophecy - Amos]]></description>
+      <pubDate>Fri, 08 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">016_lecture_16_literary_prophecy_amos_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/016_lecture_16_literary_prophecy_amos_mp3.mp3" length="23034860" type="audio/mpeg"/>
+      <itunes:duration>00:47:59</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 17: Literary Prophecy - Hosea and Isaiah]]></title>
+      <description><![CDATA[Lecture 17: Literary Prophecy - Hosea and Isaiah]]></description>
+      <pubDate>Sat, 09 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">017_lecture_17_literary_prophecy_hosea_and_isaiah_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/017_lecture_17_literary_prophecy_hosea_and_isaiah_mp3.mp3" length="23500460" type="audio/mpeg"/>
+      <itunes:duration>00:48:58</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 18: Literary Prophecy - Micah, Zephaniah, Nahum, and Habbakuk]]></title>
+      <description><![CDATA[Lecture 18: Literary Prophecy - Micah, Zephaniah, Nahum, and Habbakuk]]></description>
+      <pubDate>Sat, 09 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">018_lecture_18_literary_prophecy_micah_zephaniah_nahum_and_habbakuk_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/018_lecture_18_literary_prophecy_micah_zephaniah_nahum_and_habbakuk_mp3.mp3" length="23358380" type="audio/mpeg"/>
+      <itunes:duration>00:48:40</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 19: Literary Prophecy - Perspectives on the Exile (Jeremiah, Ezekiel, and 2nd Isaiah)]]></title>
+      <description><![CDATA[Lecture 19: Literary Prophecy - Perspectives on the Exile (Jeremiah, Ezekiel, and 2nd Isaiah)]]></description>
+      <pubDate>Sun, 10 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">019_lecture_19_literary_prophecy_perspectives_on_the_exile_jeremiah_ezekiel_and_2nd_isaiah_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/019_lecture_19_literary_prophecy_perspectives_on_the_exile_jeremiah_ezekiel_and_2nd_isaiah_mp3.mp3" length="22616108" type="audio/mpeg"/>
+      <itunes:duration>00:47:07</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 20: Responses to Suffering and Evil - Lamentations and Wisdom Literature]]></title>
+      <description><![CDATA[Lecture 20: Responses to Suffering and Evil - Lamentations and Wisdom Literature]]></description>
+      <pubDate>Sun, 10 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">020_lecture_20_responses_to_suffering_and_evil_lamentations_and_wisdom_literature_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/020_lecture_20_responses_to_suffering_and_evil_lamentations_and_wisdom_literature_mp3.mp3" length="25380332" type="audio/mpeg"/>
+      <itunes:duration>00:52:53</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 21: Biblical Poetry - Psalms and Song of Songs]]></title>
+      <description><![CDATA[Lecture 21: Biblical Poetry - Psalms and Song of Songs]]></description>
+      <pubDate>Mon, 11 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">021_lecture_21_biblical_poetry_psalms_and_song_of_songs_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/021_lecture_21_biblical_poetry_psalms_and_song_of_songs_mp3.mp3" length="23355308" type="audio/mpeg"/>
+      <itunes:duration>00:48:39</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 22: The Restoration - 1 and 2 Chronicles, Ezra, and Nehemiah]]></title>
+      <description><![CDATA[Lecture 22: The Restoration - 1 and 2 Chronicles, Ezra, and Nehemiah]]></description>
+      <pubDate>Mon, 11 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">022_lecture_22_the_restoration_1_and_2_chronicles_ezra_and_nehemiah_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/022_lecture_22_the_restoration_1_and_2_chronicles_ezra_and_nehemiah_mp3.mp3" length="23656364" type="audio/mpeg"/>
+      <itunes:duration>00:49:17</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 23: Visions of the End - Daniel and Apocalyptic Literature]]></title>
+      <description><![CDATA[Lecture 23: Visions of the End - Daniel and Apocalyptic Literature]]></description>
+      <pubDate>Tue, 12 Aug 2025 09:00:00 -0400</pubDate>
+      <guid isPermaLink="false">023_lecture_23_visions_of_the_end_daniel_and_apocalyptic_literature_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/023_lecture_23_visions_of_the_end_daniel_and_apocalyptic_literature_mp3.mp3" length="23923052" type="audio/mpeg"/>
+      <itunes:duration>00:49:50</itunes:duration>
+    </item>
+    <item>
+      <title><![CDATA[Lecture 24: Alternative Visions - Esther, Ruth, and Jonah]]></title>
+      <description><![CDATA[Lecture 24: Alternative Visions - Esther, Ruth, and Jonah]]></description>
+      <pubDate>Tue, 12 Aug 2025 21:00:00 -0400</pubDate>
+      <guid isPermaLink="false">024_lecture_24_alternative_visions_esther_ruth_and_jonah_mp3.mp3</guid>
+      <enclosure url="https://raw.githubusercontent.com/kaseyb002/hayes_old_testament/main/024_lecture_24_alternative_visions_esther_ruth_and_jonah_mp3.mp3" length="13875500" type="audio/mpeg"/>
+      <itunes:duration>00:28:54</itunes:duration>
+    </item>
+  </channel>
+</rss>
